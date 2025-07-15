@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi there, I'm Chirag Raisingh
 
-<!--
-**ChiragRaisingh/ChiragRaisingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering student with a passion for building impactful software, solving real-world problems, and constantly learning new technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Personal Projects
+
+### 🎙️ ChatterBox
+A real-time chat application with custom backend and frontend integration. Built using modern web technologies and socket communication for a seamless user experience.
+
+### 🌐 Portfolio Website
+A sleek personal website built with React to showcase my projects, experience, and technical skills.
+
+### 🧠 CV Sign Language Recognizer
+A computer vision-based application that recognizes ASL gestures using Mediapipe and a custom-trained classification model.
+
+---
+
+## 👥 Group Work & Collaborations
+
+I’ve also collaborated on several group and academic projects as part of:
+
+- 📚 **CPEN 221 – Software Construction**  
+- 🔧 **CPEN 211 – Digital Logic and Design**  
+- 🧪 **Voxel Hackathon 2024** – where we developed a food nutrition detection tool using computer vision
+
+---
+
+## 💡 Interests
+
+Outside of coding, I’m passionate about:
+- 💪 Fitness & strength science
+- 🤖 AI/ML for real-world applications
+- 🧩 Breaking down complex problems into elegant solutions
+
+---
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://linkedin.com/in/your-profile)
+- [Portfolio Website](https://github.com/ChiragRaisingh/Portfolio-App) 
+- [Resume (PDF)](#) 
+
+
+Thanks for scrolling all the way. You deserve a cookie 🍪
