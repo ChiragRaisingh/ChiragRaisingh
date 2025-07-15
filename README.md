@@ -6,14 +6,14 @@ I'm a Computer Engineering student with a passion for building impactful softwar
 
 ## 🛠️ Personal Projects
 
+### 🧠 CV Sign Language Recognizer
+A computer vision-based application that recognizes ASL gestures using Mediapipe and a custom-trained classification model.
+
 ### 🎙️ ChatterBox
 A real-time chat application with custom integration. Built using modern web technologies and socket communication for a seamless user experience.
 
 ### 🌐 Portfolio Website
 A sleek personal website built with React to showcase my projects, experience, and technical skills.
-
-### 🧠 CV Sign Language Recognizer
-A computer vision-based application that recognizes ASL gestures using Mediapipe and a custom-trained classification model.
 
 ---
 
