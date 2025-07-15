@@ -43,4 +43,6 @@ Outside of coding, I’m passionate about:
 - [Resume (PDF)](#) 
 
 
+
+
 Thanks for scrolling all the way. You deserve a cookie 🍪
