@@ -12,9 +12,6 @@ A computer vision-based application that recognizes ASL gestures using Mediapipe
 ### 🎙️ ChatterBox
 A real-time chat application with custom integration. Built using modern web technologies and socket communication for a seamless user experience.
 
-### 🌐 Portfolio Website
-A sleek personal website built with React to showcase my projects, experience, and technical skills.
-
 ---
 
 ## 👥 Group Work & Collaborations
