@@ -7,7 +7,7 @@ I'm a Computer Engineering student with a passion for building impactful softwar
 ## 🛠️ Personal Projects
 
 ### 🎙️ ChatterBox
-A real-time chat application with custom backend and frontend integration. Built using modern web technologies and socket communication for a seamless user experience.
+A real-time chat application with custom integration. Built using modern web technologies and socket communication for a seamless user experience.
 
 ### 🌐 Portfolio Website
 A sleek personal website built with React to showcase my projects, experience, and technical skills.
