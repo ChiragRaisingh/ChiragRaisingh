@@ -38,7 +38,7 @@ Outside of coding, I’m passionate about:
 
 ## 📫 Let's Connect
 
-- [LinkedIn](https://linkedin.com/in/your-profile)
+- [LinkedIn](www.linkedin.com/in/chirag-raisingh)
 - [Portfolio Website](https://github.com/ChiragRaisingh/Portfolio-App) 
 - [Resume (PDF)](#) 
 
